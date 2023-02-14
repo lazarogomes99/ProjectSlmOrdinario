@@ -7,4 +7,4 @@
 
 <hr>
 
-<h3>Segue link do deploy: <a target="_blank" href="https://saolourencoordinario.netlify.app/">saolourencoordinarioo/</a></h3> 
+<h3>Segue link do deploy: <a target= "_blank" href="https://saolourencoordinario.netlify.app/">saolourencoordinarioo</a></h3> 
